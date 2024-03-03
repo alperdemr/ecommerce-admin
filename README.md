@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Used Techs
 ```
+UI:ShadcnUI
 DB:NeonDB
 ORM:Prisma
 Auth:Clerk
